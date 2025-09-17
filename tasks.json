@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "buy egg",
+    "status": "in-progress",
+    "createdAt": "2025-09-17T13:08:19.177Z",
+    "updatedAt": "2025-09-17T13:10:04.008Z"
+  },
+  {
+    "id": 2,
+    "description": "learn Node.js",
+    "status": "todo",
+    "createdAt": "2025-09-17T13:08:33.697Z",
+    "updatedAt": "2025-09-17T13:08:33.697Z"
+  }
+]
