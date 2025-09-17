@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A simple command-line interface (CLI) to track your tasks. Built with Node.js and uses a local `tasks.json` file for storage.
+A simple command-line interface (CLI) to track tasks. Built with Node.js and uses a local `tasks.json` file for storage. The project form "https://roadmap.sh/projects/task-tracker".
 
 ## Features
 
